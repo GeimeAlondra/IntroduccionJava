@@ -1,5 +1,5 @@
 com\mycompany\interfazejemplo\ImplementacionInterface1.class
 com\mycompany\interfazejemplo\InterfazEjemplo.class
 Services\InterfaceBD1.class
-Services\ServicesBD2.class
 com\mycompany\interfazejemplo\ImplementacionInterface2.class
+Services\ServicesBD2.class
